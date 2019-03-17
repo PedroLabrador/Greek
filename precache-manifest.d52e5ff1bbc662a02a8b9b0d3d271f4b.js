@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/greek/static/media/Anim11.b6109e4d.gif"
   },
   {
-    "revision": "4fdd942419c1e27ef3ef",
+    "revision": "73a38aaa9b76c1c668d5",
     "url": "/greek/static/css/main.324a4a45.chunk.css"
   },
   {
@@ -156,8 +156,8 @@ self.__precacheManifest = [
     "url": "/greek/static/media/Anim10.afed06c4.gif"
   },
   {
-    "revision": "4fdd942419c1e27ef3ef",
-    "url": "/greek/static/js/main.509325d6.chunk.js"
+    "revision": "73a38aaa9b76c1c668d5",
+    "url": "/greek/static/js/main.c398a188.chunk.js"
   },
   {
     "revision": "6bc8aa723fcec151f76683c25dc14e03",
@@ -308,7 +308,7 @@ self.__precacheManifest = [
     "url": "/greek/static/media/omega.16d579cc.mp3"
   },
   {
-    "revision": "dcdb5a81bd22df2607251f288f6a3c54",
+    "revision": "d3ca8ee6990d27299e7a44d841100f46",
     "url": "/greek/index.html"
   }
 ];
