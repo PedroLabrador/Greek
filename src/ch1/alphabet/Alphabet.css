@@ -1,0 +1,39 @@
+.mainAlphabet {
+	text-align: center
+}
+
+.tableAlphabet {
+	margin-left:auto; 
+	margin-right:auto;
+}
+
+.square {
+  background-color: black;
+  color: white;
+  width: 64px;
+  height: 64px;
+  cursor: pointer;
+}
+
+.square:hover {
+  background-color: #212121
+}
+
+.sActive {
+	background-color: #212121
+}
+
+.content {
+	background-color: yellow;
+	margin: 0 auto;
+	width: 250px;
+}
+
+.spell {
+	width: 250px
+}
+
+.speaker {
+	width: 50px;
+	cursor: pointer;
+}
